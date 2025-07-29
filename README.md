@@ -8,7 +8,6 @@ A modern, full-stack web application for writing, compiling, and running Java co
 
 ## 🚀 Features
 
-- Syntax-highlighted Java code editor (powered by Monaco/React)
 - Real-time code compilation and output
 - Error and runtime feedback
 - Responsive, dynamic UI
